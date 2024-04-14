@@ -42,7 +42,7 @@ My journey in information technology has led me to develop a passion for cyberse
 ## Certifications
 <div>
 <a href="https://drive.google.com/file/d/1IUkc6syyuDhzm8GIRzitIJIyrEGiJqcG/view?usp=sharing"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="[https://drive.google.com/file/d/1IUkc6syyuDhzm8GIRzitIJIyrEGiJqcG/view?usp=sharing](https://drive.google.com/file/d/1BEpP9RqyDyPQfZh62Qg0QMBvRDgD7FkA/view?usp=sharing)"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://drive.google.com/file/d/1BEpP9RqyDyPQfZh62Qg0QMBvRDgD7FkA/view?usp=sharing"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
